@@ -11,7 +11,7 @@ org_full_description: > # Enter your description on the next line. Be sure to in
   A comprehensive international platform that encourages the exchange of knowledge and fosters lifelong learning for doctors from all corners of the world.
 #OPTIONAL
 #Non US-address support coming soon
-org_general_email_inbox: internationalmednet@gmail.com
+org_general_email_inbox: admin@intermednet.org
 org_street_address: Ombersley road #Please include suite number on the line below
 org_address_suite: 6
 org_city: Cardiff
@@ -30,15 +30,15 @@ org_instagram_username:
 #Your site will display an appropriate message below the Donate section
 #If your organization is fiscally sponsored, enter true below and add your sponsor's name. Otherwise enter false.
 fiscal_sponsor: false
-fiscal_sponsor_name:
+fiscal_sponsor_name: false
 #If your organization is currently registered as a 501(c)3 organization, enter true below. Otherwise enter false. Enter false if you have a fiscal sponsor.
-is_501c3: true
+is_501c3: false
 
 #ONLINE DONATIONS & EMAIL SIGNUPS
 #To use these services, enter the required usernames. For further instructions, consult the README file.
 #If you do not wish to use a service, simply remove everything after the colon (:), leaving the item blank
-donorbox_campaign_name: 
-tinyletter_username: 
+donorbox_campaign_name: false
+tinyletter_username: false
 
 #SEARCH ENGINES
 #Changing this next setting to 'true' will allow your site to be indexed by search engines (like Google)
@@ -46,7 +46,7 @@ publish: true
 
 #COLOR SCHEME
 #Select one of the five color schemes (default, one, two, three, or four)
-color_scheme: default
+color_scheme: four
 
 # *** DO NOT CHANGE ANYTHING BELOW THIS LINE ***
 
@@ -63,8 +63,8 @@ sass:
 
 #Features under development
 #These are not yet fully supported, but should give you a head start if you know what you're doing
-paypal_button_id: #Not yet available
-smartergiving_id: #Not yet available
+paypal_button_id: false
+smartergiving_id: false
 #mailchimp_embed_code: > # Enter Mailchimp post url on next line.
 #  //getkyn.us5.list-manage.com/subscribe/post?u=1407d7ee4cd0d47986cd54315&amp;id=cdc32b64fe
 #mailchimp_spam_guard: b_753395b9f963c9ea2d6980b7c_9e1559c2f0
