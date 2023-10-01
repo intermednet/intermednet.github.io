@@ -16,9 +16,9 @@ org_street_address: Ombersley road #Please include suite number on the line belo
 org_address_suite: 6
 org_city: Cardiff
 org_state: Wales
-org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
-  NP203EE
-org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
+org_zip:  NP2 03EE # Enter zip on next line. Be sure to indent by two spaces.
+
+org_phone: false # Enter phone on next line. Be sure to indent by two spaces.
   
 
 #SOCIAL MEDIA
